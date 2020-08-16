@@ -3,7 +3,7 @@
 ## Description
 Chess timer is a timer for playing chess on the table. When we are playing on the table, some peoples use a chronometer to count the time of the opponent to play. This application was created to get a better experience during a chess gaming session.
 
-## Techs:
+## Techs
 - React Native
 - JavaScript
 
@@ -12,7 +12,7 @@ Chess timer is a timer for playing chess on the table. When we are playing on th
 - React Native Sounds
 - Lottie for React Native
 
-## Demo:
+## Demo
 ![](https://media.giphy.com/media/SwgB5UNHBvZTMuxLjB/giphy.gif)
 
 ##  License:
